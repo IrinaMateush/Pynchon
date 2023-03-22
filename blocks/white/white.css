@@ -1,0 +1,6 @@
+.white {
+  display: flex;
+  flex-direction: column;
+  background-color: #F3F0EA;
+  position: relative;
+}
