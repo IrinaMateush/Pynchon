@@ -1,0 +1,23 @@
+{
+  "name": "pynchon",
+  "version": "1.0.0",
+  "description": "Pynchon wiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrinaMateush/Pynchon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaMateush/Pynchon/issues"
+  },
+  "homepage": "https://github.com/IrinaMateush/Pynchon#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0"
+  }
+}
